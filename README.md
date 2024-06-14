@@ -29,6 +29,6 @@
 ### 📫🤝🏻 Contact with Me
 
  - Send me a massage [Telegram](https://t.me/zhekichan) 👨🏻‍💻
- - Shoot me an email [Email](mailto:evg.ermolov@yandex.ru) 💌
+ - Shoot me an [email](mailto:evg.ermolov@yandex.ru) 💌
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhek1chan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
