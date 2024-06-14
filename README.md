@@ -5,10 +5,10 @@
 
 
 <h3>🛠 My tech stack:</h3>
-- 💻 &nbsp; Kotlin | Java
-- 🌐 &nbsp; Retrofit | OkHttp
-- 🛢 &nbsp; Koin | Kotlin Coroutines | Room | SharedPreferences | Jetpack Navigation | Clean Architecture | Glide | LiveData | Android DataBinding | Pager2
-- 🔧 &nbsp; Android Studio
+<p>- 💻 &nbsp; Kotlin | Java</p>
+<p>- 🌐 &nbsp; Retrofit | OkHttp</p>
+<p>- 🛢 &nbsp; Koin | Kotlin Coroutines | Room | SharedPreferences | Jetpack Navigation | Clean Architecture | Glide | LiveData | Android DataBinding | Pager2</p>
+<p>- 🔧 &nbsp; Android Studio</p>
 
 <p> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
