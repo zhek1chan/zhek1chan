@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F758&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Evgeny;I'm+an+android+developer)](https://git.io/typing-svg)
 
-
 <h3>🛠 My tech stack:</h3>
 <p>- 💻 &nbsp; Kotlin | Java</p>
 <p>- 🛢 &nbsp; Koin | Kotlin Coroutines | Room | SharedPreferences | Jetpack Navigation | Clean Architecture | Glide | LiveData | Android DataBinding | Pager2</p>
