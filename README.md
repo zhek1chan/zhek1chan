@@ -34,6 +34,5 @@
 
  - Send me a massage [Telegram](https://t.me/zhekichan) 👨🏻‍💻
  - Shoot me an email [Email](mailto:evg.ermolov@yandex.ru) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhek1chan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
