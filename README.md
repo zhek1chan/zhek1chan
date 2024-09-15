@@ -5,7 +5,7 @@
 
 <h3>🛠 My tech stack:</h3>
 <p>- 💻 &nbsp; Kotlin | Java</p>
-<p>- 🛢 &nbsp; Koin | Kotlin Coroutines | Room | SharedPreferences | Jetpack Navigation | Clean Architecture | Glide | LiveData | Android DataBinding | Pager2</p>
+<p>- 🛢 &nbsp; Koin | Hilt | Dagger2 | Jetpack Compose | Kotlin Coroutines | Room | SharedPreferences | Jetpack Navigation | Clean Architecture | Glide | LiveData | Android DataBinding | Pager2</p>
 <p>- 🌐 &nbsp; Retrofit | OkHttp</p>
 <p>- 🔧 &nbsp; Android Studio</p>
 
